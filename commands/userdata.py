@@ -3,6 +3,7 @@ from loguru import logger
 from telebot.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 import api.api as api
+
 from loader import bot
 from commands import bestdeal, highprice, lowprice
 from commands.menu import menu
