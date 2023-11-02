@@ -1,5 +1,4 @@
 from loguru import logger
-
 from sqlalchemy import desc
 
 from database.model import Hotel, Journal, User, session

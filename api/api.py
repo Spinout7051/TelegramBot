@@ -1,6 +1,6 @@
-from datetime import datetime
 import requests
 
+from datetime import datetime
 from loguru import logger
 
 from settings import (
